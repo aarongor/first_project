@@ -6,7 +6,7 @@ def index():
 
 @route('/aaron')
 def aaron():
-  return '<h1>HELLO CAT</h1><img src="http://s3.amazonaws.com/i.jpg.to/t/271"/><em>I am cool</em>'
+  return '<h1>GOODBYE CAT</h1><img src="http://s3.amazonaws.com/i.jpg.to/t/271"/><em>I am cool</em>'
 
 @route('/yefim')
 def yefim():
